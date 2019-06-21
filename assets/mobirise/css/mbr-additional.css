@@ -1382,7 +1382,7 @@ body {
   }
 }
 .cid-rt8EdoGdxq {
-  padding-top: 90px;
+  padding-top: 135px;
   padding-bottom: 90px;
   background-image: url("../../../assets/images/jasonratliff-900x568-1-900x568.jpg");
 }
@@ -4114,16 +4114,94 @@ body {
   padding-bottom: 15px;
   background-color: #98d70d;
 }
-.cid-rtNywVA0Uz {
-  padding-top: 60px;
-  padding-bottom: 60px;
+.cid-ru2urAPYHn {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ff3366;
+}
+.cid-ru2urAPYHn .card-box {
+  background-color: #ffffff;
+  padding: 2rem;
+}
+.cid-ru2urAPYHn h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-ru2urAPYHn p {
+  color: #767676;
+  text-align: left;
+}
+.cid-ru2urAPYHn .card-wrapper {
+  position: relative;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-ru2urAPYHn .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+.cid-ru2urAPYHn .card-img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+}
+.cid-ru2urAPYHn .card-title {
+  text-align: center;
+}
+.cid-ru2urAPYHn P {
+  text-align: right;
+  color: #232323;
+}
+.cid-ru2x2Nq0G5 {
+  padding-top: 30px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
-.cid-rtNywVA0Uz .mbr-text,
-.cid-rtNywVA0Uz blockquote {
+.cid-ru2x2Nq0G5 .mbr-section-subtitle {
   color: #767676;
 }
-.cid-rtNywVA0Uz .mbr-text P {
+.cid-ru2urePki5 {
+  padding-top: 15px;
+  padding-bottom: 30px;
+  background-color: #98d70d;
+}
+.cid-ru2urePki5 .card-box {
+  background-color: #ffffff;
+  padding: 2rem;
+}
+.cid-ru2urePki5 h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-ru2urePki5 p {
+  color: #767676;
+  text-align: left;
+}
+.cid-ru2urePki5 .card-wrapper {
+  position: relative;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-ru2urePki5 .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+.cid-ru2urePki5 .card-img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+}
+.cid-ru2urePki5 .card-title {
+  text-align: center;
+}
+.cid-ru2urePki5 P {
+  text-align: center;
   color: #232323;
 }
 .cid-rtNyHOHyPh {
@@ -4166,7 +4244,7 @@ body {
   font-style: italic;
 }
 .cid-rtNyHOHyPh .mbr-text {
-  color: #767676;
+  color: #232323;
 }
 .cid-rtNyHOHyPh a:not([href]):not([tabindex]) {
   color: #fff;
