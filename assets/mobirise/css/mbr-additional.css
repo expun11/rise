@@ -1965,6 +1965,29 @@ body {
 .cid-rtyJT1xuFB .mbr-section-title {
   color: #ffffff;
 }
+.cid-rxDzg7x5QL {
+  background: #ffffff;
+}
+.cid-rxDzg7x5QL .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-rxDzg7x5QL .mbr-figure {
+  margin: 0 auto;
+}
+.cid-rxDzg7x5QL figcaption {
+  position: relative;
+}
+.cid-rxDzg7x5QL figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rxDzg7x5QL .image-block {
+    width: 100% !important;
+  }
+}
 .cid-rtbELfvuVV {
   padding-top: 60px;
   padding-bottom: 60px;
